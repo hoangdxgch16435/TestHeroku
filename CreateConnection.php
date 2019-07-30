@@ -1,5 +1,5 @@
 <?php 
-	$servername = "localhost";
+	$servername = "db4free.net";
 	$port = "3306";
 	$username = "hoangdxgch16435";
 	$password = "10111998@";
